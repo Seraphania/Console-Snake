@@ -1,0 +1,14 @@
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/bin/Debug/net8.0/Player_Controle
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/bin/Debug/net8.0/Player_Controle.deps.json
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/bin/Debug/net8.0/Player_Controle.runtimeconfig.json
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/bin/Debug/net8.0/Player_Controle.dll
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/bin/Debug/net8.0/Player_Controle.pdb
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/obj/Debug/net8.0/Player_Controle.GeneratedMSBuildEditorConfig.editorconfig
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/obj/Debug/net8.0/Player_Controle.AssemblyInfoInputs.cache
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/obj/Debug/net8.0/Player_Controle.AssemblyInfo.cs
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/obj/Debug/net8.0/Player_Controle.csproj.CoreCompileInputs.cache
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/obj/Debug/net8.0/Player_Controle.dll
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/obj/Debug/net8.0/refint/Player_Controle.dll
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/obj/Debug/net8.0/Player_Controle.pdb
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/obj/Debug/net8.0/Player_Controle.genruntimeconfig.cache
+/home/shadowchess/Project/Programming/C#/Player controle/Player_Controle/obj/Debug/net8.0/ref/Player_Controle.dll

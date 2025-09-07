@@ -1,0 +1,8 @@
+highscore1=2000
+highscore2=1000
+highscore3=500
+left=a
+right=d
+up=w
+down=s
+select=l
